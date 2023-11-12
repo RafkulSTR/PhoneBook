@@ -24,6 +24,6 @@ public class Printer {
 
         System.out.println(myPhoneBook.find(name1));
         System.out.println(PhoneBook.getPhoneBook());
-        System.out.println(myPhoneBook.find("Me"));
+       // System.out.println(myPhoneBook.find("Me"));
     }
 }
